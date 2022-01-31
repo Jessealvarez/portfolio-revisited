@@ -1,0 +1,46 @@
+div {
+    box-shadow: none;
+    background-color: none;
+    border-color: none;
+    border-style: none;
+    width: auto;
+    height: auto;
+    padding: 150px; 
+    font-family: "Luminari", serif;
+    color: black;
+
+    }
+
+    img{
+        border-style: groove;
+        border-radius: 5px;
+        box-shadow: 0px 0px 10px black;
+    }
+
+    li {
+     font-family: "Luminari", serif;
+     color: black;
+     margin: 10px;
+
+    }
+
+    body {
+        background-image: url('https://i.ibb.co/fv0wDPP/548-A045-C-3-D11-457-C-AEA7-BE18-FB1898-EB.jpg');
+        background-repeat: no-repeat;
+        padding: 25px;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    h1 {
+        font-family: "Luminari", serif;
+        border: dotted;
+        padding: 10px;
+        border-width: 2px;
+        
+
+    }
+
+    
+© 2022 GitHub, Inc.
+Terms
